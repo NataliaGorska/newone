@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/newone/static/css/main.160bfe88.chunk.css",
+    "main.js": "/newone/static/js/main.80d3b6e4.chunk.js",
+    "main.js.map": "/newone/static/js/main.80d3b6e4.chunk.js.map",
+    "runtime-main.js": "/newone/static/js/runtime-main.fe926960.js",
+    "runtime-main.js.map": "/newone/static/js/runtime-main.fe926960.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/newone/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.674fff39.chunk.js": "/newone/static/js/2.674fff39.chunk.js",
+    "static/js/2.674fff39.chunk.js.map": "/newone/static/js/2.674fff39.chunk.js.map",
+    "index.html": "/newone/index.html",
+    "precache-manifest.78a1a10497cc0bb61cecc8f49b21583e.js": "/newone/precache-manifest.78a1a10497cc0bb61cecc8f49b21583e.js",
+    "service-worker.js": "/newone/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/newone/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.160bfe88.chunk.css.map": "/newone/static/css/main.160bfe88.chunk.css.map",
+    "static/js/2.674fff39.chunk.js.LICENSE.txt": "/newone/static/js/2.674fff39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe926960.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.674fff39.chunk.js",
+    "static/css/main.160bfe88.chunk.css",
+    "static/js/main.80d3b6e4.chunk.js"
+  ]
+}
